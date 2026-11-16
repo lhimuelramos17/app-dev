@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+## My Favorite Series: Money Heist
+Money Heist (La Casa de Papel) is a Spanish heist crime drama series created by Álex Pina. The story follows a mysterious mastermind known as "The Professor," who recruits a group of eight specialized criminals using city code names—including Tokyo, Berlin, Nairobi, and Rio—to carry out an ambitious assault on the Royal Mint of Spain. Dressed in iconic red jumpsuits and Salvador Dalí masks, the crew takes hostages while printing billions of euros, all while The Professor manipulates the police from the outside. I really enjoy its clever, high-stakes mind games, intense plot twists, and strong themes of loyalty and resistance.
